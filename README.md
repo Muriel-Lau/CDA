@@ -5,6 +5,8 @@
 ----- Créée par M. Laurencin - dernière- version le 24 décembre 2020 ----
 ----- Développée en Python 38 et tkinter ----
 
+Vous trouverez ici le script de l'application '99 shooters' et l'image associée 'musique.gif' et dans le dossier zipé 99-shooters-Laurencin ce qui suit : 
+
 >>> Dans le dossier Applications-99shooters il y a :
 ** l'executable de l'application et toutes les librairies \
 nécessaires à lancer le programme.
