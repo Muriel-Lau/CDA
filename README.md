@@ -24,3 +24,12 @@ Dans le dossier 'Applications-99shooters' lancer l executable '99shooters'
 
 Si vous avez des questions ou que ça ne fonctionne pas,
 \ me contacter par email à muriel.laurencin@orange.fr
+
+
+
+Sources: 
+Openclassroom
+Documentation Python
+Documentation Tkinter
+Documentation cx_Freeze
+Siteweb de Xavier Dupré
