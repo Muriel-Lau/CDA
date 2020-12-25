@@ -17,9 +17,9 @@ Dans le dossier 'Applications-99shooters' lancer l executable '99shooters'
 
 
 >>> Dans le dossier scripts il y a :
-** le script de l'application '99shooters.py' développée en Python et Tkinter
-** l'image 'musique.gif'
-** le script 'setup.py' pour créer l'executable de l'application fait avec cx_Freeze
+** le script de l'application '99shooters.py' développée en Python et Tkinter,
+** l'image 'musique.gif',
+** le script 'setup.py' pour créer l'executable de l'application fait avec cx_Freeze.
 
 
 Si vous avez des questions ou que ça ne fonctionne pas,
@@ -28,8 +28,8 @@ Si vous avez des questions ou que ça ne fonctionne pas,
 
 
 Sources: 
-Openclassroom
-Documentation Python
-Documentation Tkinter
-Documentation cx_Freeze
-Siteweb de Xavier Dupré
+Openclassroom,
+Documentation Python,
+Documentation Tkinter,
+Documentation cx_Freeze,
+Siteweb de Xavier Dupré.
